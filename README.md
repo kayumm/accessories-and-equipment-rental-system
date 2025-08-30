@@ -6,13 +6,16 @@ A web-based application for renting accessories and equipment. Users can browse 
 
 - **Frontend**: HTML, CSS, JavaScript  
 - **Backend**: PHP  
-- **Database**: MySQL  
-- **Hosting**: InfinityFree
+- **Database**: MySQL (XAMPP)  
 
 ##  Features
 
 - User registration and login  
-- Item listing with images and descriptions  
-- Availability calendar and booking system  
-- Admin dashboard for managing users, inventory, and bookings  
-- Ratings and feedback system (could be added)
+- Item listing with multiple images, location, cost, contract and descriptions  
+- Admin dashboard for managing users, and items  
+- Item review system
+- Booking system
+- Notifications
+- Request for Items that are not available
+- Search Items
+- Edit Items
