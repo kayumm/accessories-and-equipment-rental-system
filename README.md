@@ -1,6 +1,6 @@
 # Accessories and Equipment Rental System
 
-A web-based application for renting accessories and equipment. Users can browse available items, make bookings, and manage their rentals, while admins can add, update, and manage inventory and user requests.
+A web-based application for renting accessories and equipment. Users can browse available items, make bookings, and manage their items, while admins can remove inappopriate items and users.
 
 ##  Technologies Used
 
