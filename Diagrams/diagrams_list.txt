@@ -5,3 +5,4 @@ Data Flow Diagram
 ER Diagram
 Sequence Diagram
 Component Diagram
+Deployment Diagram
